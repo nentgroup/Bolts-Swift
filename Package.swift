@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "BoltsSwift",
     platforms: [.macOS(.v10_10),
-                .iOS(.v8),
+                .iOS(.v9),
                 .tvOS(.v9),
                 .watchOS(.v3)],
     products: [
